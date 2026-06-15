@@ -1,8 +1,10 @@
-# Mi Abraraw Farré
+# Mi Portfolio | Desarrollador .NET
 
-Este es mi portfolio profesional, donde puedes conocer mi experiencia, formación y tecnologías.
+Este es mi portfolio profesional, basado en mi experiencia en el mundo IT y en mi evolución como desarrollador .NET.
 
-Puedes descargar este proyecto para verlo localmente o utilizarlo como plantilla para crear tu propio portfolio.
+Aquí puedes conocer mi experiencia, formación, proyectos y las tecnologías con las que he trabajado.
+
+Puedes descargar este proyecto para verlo localmente o utilizarlo como referencia para crear tu propio portfolio ;)
 
 ## Ejecutar el proyecto
 
