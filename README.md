@@ -1,8 +1,29 @@
-# React + Vite
+# Portfolio de Abraraw Farré
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi portfolio profesional, donde puedes conocer mi experiencia, formación y tecnologías.
 
-Currently, two official plugins are available:
+Puedes descargar este proyecto para verlo localmente o utilizarlo como plantilla para crear tu propio portfolio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Ejecutar el proyecto
+
+1. Descarga o clona el repositorio.
+2. Abre la carpeta del proyecto en Visual Studio Code.
+3. Abre una terminal e instala las dependencias:
+
+```bash
+npm install
+```
+
+4. Inicia el servidor de desarrollo:
+
+```bash
+npm run dev
+```
+
+5. Accede al enlace que aparecerá en la terminal, normalmente:
+
+```text
+http://localhost:5173
+```
+
+Desde ahí podrás ver el proyecto y consultar mi experiencia profesional.
