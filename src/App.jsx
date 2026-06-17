@@ -113,7 +113,7 @@ function App() {
             <img src="/img/abraraw.png" alt="Avatar" className='img-me' />
             <section className='first-presentation'>
               <h1>Abraraw Farré</h1>
-              <h4>Backend Developer · .NET</h4>
+              <h4>Backend Developer · .NET · IA Generativa</h4>
               <h5>4 años en el sector IT · 2 años y medio en desarrollo .NET</h5>
               <a onClick={() => { downloadFileAtURL(URL_CV) }} className="fancy" download="documents">
                 <span className="top-key"></span>
@@ -132,7 +132,10 @@ function App() {
               Trabajo aplicando principios SOLID, inyección de dependencias y buenas
               prácticas para crear soluciones robustas y mantenibles. Me adapto con
               facilidad a equipos multidisciplinares y mantengo un firme compromiso con
-              la calidad del software y el aprendizaje continuo.</p>
+              la calidad del software y el aprendizaje continuo. También cuento con
+              conocimientos en IA generativa, aplicando modelos de lenguaje y herramientas
+              de inteligencia artificial para mejorar procesos, productividad y soluciones
+              digitales.</p>
           </div>
 
           <h1>Experiencia profesional</h1>
@@ -157,6 +160,7 @@ function App() {
             <p><strong>Bases de datos:</strong> SQL Server, Oracle, MySQL y MongoDB.</p>
             <p><strong>Arquitectura y buenas prácticas:</strong> SOLID, POO, inyección de dependencias, patrones de diseño y arquitectura hexagonal.</p>
             <p><strong>Frontend:</strong> JavaScript, React, Vue, HTML5, CSS3 y Bootstrap.</p>
+            <p><strong>IA generativa:</strong> modelos de lenguaje, prompt engineering, automatización de tareas y uso aplicado de herramientas de inteligencia artificial.</p>
             <p><strong>DevOps y colaboración:</strong> Git, Azure DevOps, Bitbucket, Jira, Confluence y CI/CD.</p>
           </div>
 
